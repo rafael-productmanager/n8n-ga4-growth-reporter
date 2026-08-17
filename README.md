@@ -1,7 +1,5 @@
 # 📊 Multi-Site Growth & SEO Intelligence Pipeline (n8n + GA4 + Search Console + Slack)
 
-![Visualização do Pipeline de Dados](workflow_portfólio.png)
-
 Pipeline automatizado de inteligência de produto e aquisição desenvolvido no **n8n**. O fluxo orquestra semanalmente a extração de dados de tráfego, qualidade de sessões e termos de busca orgânica via **Google Analytics Data API (GA4)** e **Google Search Console API**, normaliza os dados via JavaScript e entrega um reporte consolidado diretamente no **Slack**.
 
 ---
