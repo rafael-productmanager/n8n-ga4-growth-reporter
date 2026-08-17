@@ -19,6 +19,8 @@ Este pipeline resolve:
 
 ## 🏗️ Arquitetura do Pipeline
 
+![Visualização do Pipeline de Dados](workflow_portfólio.png)
+
 ```text
 [Schedule Trigger] (Segunda-feira, 08:00)
        │
